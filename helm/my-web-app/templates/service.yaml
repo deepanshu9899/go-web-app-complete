@@ -7,6 +7,6 @@ spec:
     app: my-web-app
   ports:
     - protocol: TCP
-      port: 80
+      port: 8080
   type: ClusterIP
 
